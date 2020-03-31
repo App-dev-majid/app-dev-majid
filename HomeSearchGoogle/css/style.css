@@ -1,0 +1,101 @@
+/*  */
+
+html, body{
+    height: 100%;
+    margin: 0;
+}
+
+/* barre de navigation du haut */
+.header{
+    /*border: 1px solid maroon;*/
+    display: flex;
+    flex-direction: row-reverse;
+    
+
+}
+
+/* les sections titre de la barre de nav du haut */
+.gmail{
+    text-decoration: none;
+    /*border: 1px solid rgb(17, 121, 26);*/
+    margin-right: 1%;
+    
+}
+
+.images{
+    /*border: 1px solid rgb(255, 10, 10);*/
+    margin-right: 1%;
+}
+
+.nav{
+    /*border: 1px solid rgb(74, 95, 214);*/
+    margin-right: 1%;
+}
+
+.connexion{
+    /*border: 1px solid rgb(252, 225, 73);*/
+    margin-right: 1%;
+}
+
+/* logo et barre de recherche central google */
+
+.center_google{
+    border: 1px solid rgba(102, 54, 190, 0.315);
+    
+}
+
+img{
+    border: 1px solid maroon;
+    margin: 147px 0px 150px 495px;
+    height: 92px;
+}
+
+#input_search{
+    border: 1px solid maroon;
+}
+
+.buttons{
+    border: 1px solid maroon;
+    align-items: center;
+}
+
+.search_button{
+    border: 1px solid maroon;
+}
+
+.lucky_button{
+    border: 1px solid maroon;
+    
+}
+
+/* footer */
+
+footer{
+    /*background-color: #f2f2f2;
+    position: absolute;
+    left: O;
+    bottom: 0;
+    width: 100%;*/
+}
+
+.footer_up{
+    color: rgb(122, 121, 121);
+    display: flex;
+
+}
+
+.footer_bottom{
+        
+    /*display: flex;*/
+    
+    
+}
+
+.footer_left{
+
+}
+
+.footer_right{
+    /*flex-direction: row-reverse;*/
+}
+
